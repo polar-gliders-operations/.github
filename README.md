@@ -1,8 +1,14 @@
-<p align="center"> <a href="https://obs.polargliders.com"> <img src="https://obs.polargliders.com/img/logos/polar_glider_logo.png" alt="Polar Gliders" height="90"> </a> </p> <h1 align="center">Polar Gliders</h1>
+<h1 align="center">Polar Gliders' Operations</h1>
+
+<a href="https://obs.polargliders.com">
+  <img src="https://obs.polargliders.com/img/logos/polar_glider_logo.png" alt="Polar Gliders" align="left" width="170" hspace="20">
+</a>
 
 Research group at the Department of Marine Sciences, University of Gothenburg, studying the Southern Ocean and the air-sea interface with autonomous platforms.
 
 **Live data:** [obs.polargliders.com](https://obs.polargliders.com)
+
+<br clear="left">
 
 ---
 
