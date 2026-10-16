@@ -1,4 +1,4 @@
-# Polar Gliders
+<p align="center"> <a href="https://obs.polargliders.com"> <img src="https://obs.polargliders.com/img/logos/polar_glider_logo.png" alt="Polar Gliders" height="90"> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.gu.se/en/department-of-marine-sciences"> <img src="https://obs.polargliders.com/img/logos/gu_white.svg" alt="University of Gothenburg" height="90"> </a> </p> <h1 align="center">Polar Gliders</h1>
 
 Research group at the Department of Marine Sciences, University of Gothenburg, studying the Southern Ocean and the air-sea interface with autonomous platforms.
 
